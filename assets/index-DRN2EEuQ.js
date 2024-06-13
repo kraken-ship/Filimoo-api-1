@@ -17235,7 +17235,7 @@ const N1 = () => {
                                 "flex flex-row justify-start items-center p-[5px] gap-x-[5px] ",
                               children: [
                                 h.jsx("img", {
-                                  className: "w-[20px] hover:color-[white]",
+                                  className: "w-[20px] hover:color-[white] max-sm:w-[10px]",
                                   src: o.image,
                                   alt: "",
                                 }),
