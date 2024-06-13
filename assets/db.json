@@ -1,0 +1,361 @@
+{
+  "header_slider": [
+    { "id": 1, "image": "../src/Image/9sk2i_desktop_1_v1.webp" },
+    { "id": 2, "image": "../src/Image/flbsk_desktop_1_v1.jpeg" },
+    { "id": 3, "image": "../src/Image/owake_desktop_1_v1.jpeg" },
+    { "id": 4, "image": "../src/Image/zne3v_desktop_1_v4.webp" },
+    { "id": 5, "image": "../src/Image/147243_desktop_1_v1.webp" }
+  ],
+  "header_text": [
+    {
+      "id": 1,
+      "text": "95 هزار اپیزود فیلم و سریال برای تماشا داری",
+      "picture": "../src/Image/icon-play.svg",
+      "class": "button",
+      "text2": "خرید اشتراک و تماشا"
+    },
+    {
+      "id": 2,
+      "text": "میتونی دانلود کنی بعد بدون اینترنت تماشا کنی",
+      "picture": "../src/Image/gift-card-svgrepo-com.svg",
+      "class": "under",
+      "text2": "تخفیف ویژه برای کاربران جدید"
+    },
+    {
+      "id": 3,
+      "text": "میتونی یک عضو،مخصوص تماشای کودک بسازی"
+    }
+  ],
+  "favorite_image": [
+    { "id": 1, "image": "../src/Image/oscar.jpg" },
+    { "id": 2, "image": "../src/Image/kar.jpg" },
+    { "id": 3, "image": "../src/Image/qotb.jpg" },
+    { "id": 4, "image": "../src/Image/mom.jpg" },
+    { "id": 5, "image": "../src/Image/pesar.jpg" },
+    { "id": 6, "image": "../src/Image/zod.jpg" },
+    { "id": 7, "image": "../src/Image/zahr.jpg" },
+    { "id": 8, "image": "../src/Image/jungle.jpg" },
+    { "id": 9, "image": "../src/Image/captain.jpg" },
+    { "id": 10, "image": "../src/Image/coconut.jpg" },
+    { "id": 11, "image": "../src/Image/fossil.jpg" }
+  ],
+  "favorite_text": [
+    {
+      "id": 1,
+      "title": "اسکار",
+      "director": "کارگردان مهران مدیری",
+      "sort1": "ریالیتی شو",
+      "sort2": "گیم شو",
+      "main": "تنها یک تلاش دیگر تا مشخص‌شدن برنده اسکار باقیمانده است. در سومین قسمت، صحرا اسداللهی، به کمک جلوه‌های ویژه روبروی ...",
+      "bgimage": "../src/Image/oscar2.jpg",
+      "logo": "../src/Image/oscarlogo.png"
+    },
+    {
+      "id": 2,
+      "title": "زهرمار",
+      "director": "کارگردان: سیدجواد رضویان",
+      "sort1": "کمدی",
+      "sort2": "درام",
+      "main": "حاج حشمت تهرانی یک مداح شناخته شده است که قرار است در شورای شهر تهران عضو شود. او در یکی از شب ها یکی از دوستان قدیم",
+      "bgimage": "../src/Image/purple.jpg",
+      "logo": "../src/Image/zhrlogo.png"
+    }
+  ],
+  "favorite_slider": [
+    { "id": 1, "image": "../src/Image/slider.png" },
+    { "id": 2, "image": "../src/Image/slider.png" },
+    { "id": 3, "image": "../src/Image/slider.png" },
+    { "id": 4, "image": "../src/Image/slider.png" },
+    { "id": 5, "image": "../src/Image/slider.png" },
+    { "id": 6, "image": "../src/Image/slider.png" },
+    { "id": 7, "image": "../src/Image/slider.png" },
+    { "id": 8, "image": "../src/Image/slider.png" },
+    { "id": 9, "image": "../src/Image/slider.png" },
+    { "id": 10, "image": "../src/Image/slider.png" }
+  ],
+  "watch_text1":[
+    {
+        "id":1,
+        "image":"../src/Image/deviceYaghi.png",
+        "header": "تماشای فیلیمو با همه دستگاه‌ها",
+        "text":"می‌توانید فیلیمو را به صورت هم‌زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ‌تاپ، تلویزیون و... تماشا کنید.",
+        "button":"../src/Image/icon-play.svg",
+        "buttontext":"خرید اشتراک و تماشا",
+        "class":"button",
+        "class2":"wrapper"
+        
+    },{
+      "id":2,
+        "image":"../src/Image/TVBG.png",
+        "header": "چطور با تلویزیون، فیلیمو تماشا کنم؟",
+        "text":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون‌های مختلف 6 روش را فراهم کردیم. هرکدام از این 6 روش یک ویدیو آموزشی دارند که می‌توانید از لینک زیر، آن‌ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید.",
+        "button":"../src/Image/left-arrow-chevron-svgrepo-com.svg",
+        "buttontext":"ویدیو های آموزشی تماشا با تلوزیون",
+        "class":"button1",
+        "class2":"wrapper2"
+    }
+  ],
+  "watch_text2":[
+    {
+        "id":1,
+        "head":"کامپیوتر و لپ‌تاپ",
+        "head2":"تلویزیون",
+        "text":"windows PC - MacOS - Chorom OS",
+        "text2":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung",
+        "logo":"../src/Image/laptop.png",
+        "logo2":"../src/Image/TV.png"
+      },
+      {
+        "id":2,
+        "head":"موبایل و تبلت",
+        "head2":"اندروید تی‌وی",
+        "text":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets",
+        "text2":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom",
+        "logo":"../src/Image/mobile.png",
+        "logo2":"../src/Image/androidTV.png"
+      },
+      {
+        "id":3,
+        "head":"کنسول‌های بازی (Browser)",
+        "text":"Xbox Series S - Xbox Seris X - PS5 - PS4",
+        "logo":"../src/Image/game.png"
+      }
+  ],
+  "free_slider":[
+    {
+        "id": 1,
+        "image": "../src/Image/free1.jpg",
+        "text": "پایتخت"
+      },
+      {
+        "id": 2,
+        "image": "../src/Image/free2.jpg",
+        "text": "عقرب"
+      },
+      {
+        "id": 3,
+        "image": "../src/Image/free3.jpg",
+        "text": "ملکه گدایان"
+      },
+      {
+        "id": 4,
+        "image": "../src/Image/free4.jpg",
+        "text": "ویرانگر"
+      },
+      {
+        "id": 5,
+        "image": "../src/Image/free5.jpg",
+        "text": "شاهرگ"
+      },
+      {
+        "id": 6,
+        "image": "../src/Image/free6.jpg",
+        "text": "بالشها"
+      },
+      {
+        "id": 7,
+        "image": "../src/Image/free7.jpg",
+        "text": "حماسه دره شیلر"
+      },
+      {
+        "id": 8,
+        "image": "../src/Image/free8.jpg",
+        "text": "راز دشت تاران"
+      },
+      {
+        "id": 9,
+       "image": "../src/Image/free9.jpg",
+        "text": "چپ دست"
+      },
+      {
+        "id": 10,
+        "image": "../src/Image/free10.jpg",
+        "text": "شب های مافیا 2"
+      },
+      {
+        "id": 11,
+        "image": "../src/Image/free11.jpg",
+        "text": "مردم معمولی"
+      },
+      {
+        "id": 12,
+        "image": "../src/Image/free12.jpg",
+        "text": "مردم معمولی"
+      },
+      {
+        "id": 13,
+        "image": "../src/Image/free13.jpg",
+        "text": "دیرین دیرین"
+      },
+      {
+        "id": 14,
+        "image": "../src/Image/free14.jpg",
+        "text": "مردم معمولی"
+      },
+      {
+        "id": 15,
+       "image": "../src/Image/free15.jpg",
+        "text": "مردم معمولی"
+      }
+  ],
+  "online_data1":[
+    {
+        "id": 1,
+        "name": "فیلم‌های روز سینمای ایران"
+      },
+      {
+        "id": 2,
+        "name": "۸ ساعت زمان برای مشاهده فیلم در هر کجا"
+      },
+      {
+        "id": 3,
+        "name": "خرید یک بلیت برای تماشا همراه با همه خانواده"
+      }
+  ],
+  "online_data2":[
+    {
+      "id": 1,
+      "name": "روز ششم",
+      "director": "کارگردان: حجت قاسم زاده اصل",
+      "tag1": "جنایی",
+      "tag2": "رازآلود",
+      "image":"../src/Image/over_1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "پالایشگاه",
+      "director": "کارگردان: مهرداد خوشبخت",
+      "tag1": "درام",
+      "tag2": "جنگی",
+      "image":"../src/Image/over_2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "هاوایی",
+      "director": "کارگردان: بهمن گودرزی",
+      "tag1": "کمدی",
+      "tag2": "ماجراجویی",
+      "image":"../src/Image/over_3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "آهو",
+      "director": "کارگردان: هوشنگ گلمکانی",
+      "tag1": "درام",
+      "tag2": "خانوادگی",
+      "image":"../src/Image/over_4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "نگهبان شب",
+      "director": "کارگردان: رضا میرکریمی",
+      "tag1": "درام",
+      "tag2": "غمگین",
+      "image":"../src/Image/over_5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "گیجگاه",
+      "director": "کارگردان: عادل تبریزی",
+      "tag1": "کمدی",
+      "tag2": "عاشقانه",
+      "image":"../src/Image/over_6.jpg"
+    }
+  ],
+  "comments":[
+    {"id":1,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":2,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":3,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":4,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":5,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":6,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":7,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":8,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"},
+    {"id":9,"name":"از وقتی فیلیمو رو باز کردم دیگه تلوزیون نگاه نمیکنم"}
+  ],
+  "ask":[
+    { 
+            "key": 1, 
+            "title": "آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟", 
+            "data": "بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق  اپلیکیشن را تماشا کنید.", 
+            "isOpen": false
+        }, 
+        { 
+            "key": 2, 
+            "title": "آیا فیلیمو برای خارج از ایران در دسترس است؟", 
+            "data": "خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست.", 
+            "isOpen": false
+        }, 
+        { 
+            "key": 3, 
+            "title": "آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟", 
+            "data": "تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید.", 
+            "isOpen": false
+        }, 
+        { 
+            "key": 4, 
+            "title": "از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟", 
+            "data":"برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)", 
+            "isOpen": false
+        }
+  ],
+  "footer_data1":[
+    {
+      "id": 1,
+      "text": "هزاران فیلم و سریال خارجی(دوبله و زیرنویس)"
+    },
+    {
+      "id": 2,
+      "text": "هزاران انیمیشن و کارتون برای کودکان"
+    },
+    {
+      "id": 3,
+      "text": "پشتیبانی 24 ساعته برای راهنمایی شما"
+    }
+  ],
+  "footer_data2":[
+    {
+      "id": 1,
+      "text": "تماشا با تلوزیون",
+      "image":"../src/Image/TV.png"
+    },
+    {
+        "id": 2,
+        "text": "اپلیکیشن ها"
+      },
+      {
+        "id": 3,
+        "text": "تماس و پشتیبانی"
+      },
+      {
+        "id": 4,
+        "text": "فروشگاه"
+      }
+  ],
+  "footer_data3":[
+    {
+      "id":1,
+      "flag_id":"flag1",
+      "image":"../src/Image/down-arrow-svgrepo-com.svg",
+      "flag_id2":"relativebox1",
+      "title":"سایر لینک ها",
+      "name1":"قوانین",
+      "name2":"به ما بپیوندید",
+      "name3":"تبلیغات در فیلیمو",
+      "name4":"لوگو",
+      "name5":"دانلود فیلم و سریال"
+    },
+    {
+      "id":2,
+      "flag_id":"flag2",
+      "image":"../src/Image/down-arrow-svgrepo-com.svg",
+      "flag_id2":"relativebox2",
+      "title":"شبکه های اجتماعی",
+      "name1":"قوانین",
+      "name2":"به ما بپیوندید",
+      "name3":"تبلیغات در فیلیمو",
+      "name4":"لوگو",
+      "name5":"دانلود فیلم و سریال"
+    }
+  ]
+}
