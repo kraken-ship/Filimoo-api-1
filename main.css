@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans1;
+}
+#root{
+    direction: rtl;
+    width: 100%;
+}
+@font-face{
+    font-family:iran;
+    src: url('../src/fonts/iran.woff');
+}
+
+@font-face {
+    font-family: sans1;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./IRANSans-web.woff2');
+
+}
