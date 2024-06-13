@@ -1,6 +1,6 @@
 {
   "header_slider": [
-    { "id": 1, "image": "../src/Image/9sk2i_desktop_1_v1.webp" },
+    { "id": 1, "image": "../assets/9sk2i_desktop_1_v1.webp" },
     { "id": 2, "image": "../src/Image/flbsk_desktop_1_v1.jpeg" },
     { "id": 3, "image": "../src/Image/owake_desktop_1_v1.jpeg" },
     { "id": 4, "image": "../src/Image/zne3v_desktop_1_v4.webp" },
